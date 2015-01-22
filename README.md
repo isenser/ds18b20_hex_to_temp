@@ -1,3 +1,3 @@
 # ds18b20_hex_to_temp
 
-converte ds18b20 hex code to temperature
+converter ds18b20 first two bytes hex code to temperature in celsius
